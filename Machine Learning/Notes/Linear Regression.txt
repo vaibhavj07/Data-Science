@@ -1,0 +1,17 @@
+Linear Regression
+-------------------
+Data did nto constain discrete values, and contained continous values. 
+
+1. y = mx + c (m -> slope, c-> intercept)
+	x -> input value
+
+Least Square Method
+-----------------------
+Get mean values of x and y, calculate gradient m by multiplying the differences
+
+x,y <b>
+
+x_mean, y_mean <br>
+
+m = sum((x-x_mean) (y - y_mean))/sum(x-x_mean)^2
+b = y_mean - m*x_mean

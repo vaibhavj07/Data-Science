@@ -1,0 +1,9 @@
+If the target variable contains discrete values, Logistic Regression is not appropriate 
+
+	Classification problems
+	target = limited set of values which represent different categories
+	better to use number for targets
+
+
+
+	
