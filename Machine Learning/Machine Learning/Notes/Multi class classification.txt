@@ -1,3 +1,0 @@
-One versus all technique. 
-
-We chose a single category as a positive case and group al the other categories as negative case. 
